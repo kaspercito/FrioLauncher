@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "Frio Launcher"
+
+[ejs.landing]
+mediaGitHubURL = "https://github.com/kaspercito/FrioLauncher"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "#"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/kaspercito/FrioLauncher"
+supportLink = "https://github.com/kaspercito/FrioLauncher/issues"
+
+[ejs.welcome]
+welcomeHeader = "Bienvenido a Frio Launcher"
+welcomeDescription = "Este cliente fue creado para poder jugar a diferentes modpacks que se armen."
+welcomeDescCTA = "Tu fuiste invitado a unirte."
