@@ -4,7 +4,7 @@ usernamePlaceholder = "Usuario"
 usernameEditButton = "Editar"
 settingsTooltip = "Configuración"
 serverStatus = "SERVIDOR"
-serverStatusPlaceholder = "Desconectado"
+serverStatusPlaceholder = "Offline"
 mojangStatus = "ESTADO DE MOJANG"
 mojangStatusTooltipTitle = "Servicios"
 mojangStatusNETitle = "No Esenciales"
@@ -166,7 +166,7 @@ loading = "Cargando..."
 
 [js.landing.serverStatus]
 server = "SERVIDOR"
-offline = "Desconectado"
+offline = "Offline"
 players = "JUGADORES"
 
 [js.landing.systemScan]
