@@ -1,0 +1,13 @@
+[
+  {
+    "id": "slurvey",
+    "name": "Slurvey's Ultimate Survival ❄️",
+    "version": "1.3.2",
+    "icon": "https://raw.githubusercontent.com/kaspercito/FrioLauncher/main/modpacks/slurvey/icon.png",
+    "download": "https://raw.githubusercontent.com/kaspercito/FrioLauncher/main/modpacks/slurvey/modpack.json",
+    "curseforge": {
+      "projectID": 1227053,
+      "fileID": 6357607
+    }
+  }
+]
