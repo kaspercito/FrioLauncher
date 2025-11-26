@@ -1,7 +1,8 @@
 <p align="center"><img src="https://cdn.discordapp.com/attachments/1198164615624937553/1443115897454854276/LoadingSeal.png?ex=6927e5e9&is=69269469&hm=ac4d7a947931de3c242322662f6eb4a7ab2c08e95bbfeb5ebe2462d077b35d72&" width="150px" height="150px" alt="Frio Launcher"></p> <h1 align="center">Frio Launcher</h1> <em><h5 align="center">(Launcher Oficial)</h5></em> <p align="center"> <img src="https://img.shields.io/github/downloads/kaspercito/FrioLauncher/total.svg?style=for-the-badge"> <img src="https://forthebadge.com/images/badges/winter-is-coming.svg" height="28px"> </p> <p align="center">Únete a servidores con mods sin preocuparte por instalar Java, Forge o configuraciones complicadas. El launcher se encarga de todo.</p>
 
 📸 Capturas
-<img src="https://cdn.discordapp.com/attachments/1198164615624937553/1443117536315969587/image.png?ex=6927e770&is=692695f0&hm=f3287c178c19229aeda073abf08ec85fc318295641e0bfad7da135e496836867&" width="150px" height="150px" alt="Frio Launcher"></p> 
+<img src="[https://camo.githubusercontent.com/cc6aab3d2d06f7b6ce5d496f6999bdf6b9361777a811460df0de0c20cbfcbc48/68747470733a2f2f692e696d6775722e636f6d2f366f37536d48362e706e67](https://cdn.discordapp.com/attachments/1198164615624937553/1443117536315969587/image.png?ex=6927e770&is=692695f0&hm=f3287c178c19229aeda073abf08ec85fc318295641e0bfad7da135e496836867&)" alt="Screenshot 1" data-canonical-src="https://i.imgur.com/6o7SmH6.png" style="max-width: 100%;">
+
 
 
 ❄️ Features
