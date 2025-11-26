@@ -49,8 +49,29 @@ Muestra jugadores conectados.
 https://github.com/kaspercito/FrioLauncher/releases
 
 Plataformas soportadas
-Plataforma	Archivo
-Windows x64	FrioLauncher-setup-VERSION.exe
-macOS x64	FrioLauncher-setup-VERSION-x64.dmg
-macOS arm64	FrioLauncher-setup-VERSION-arm64.dmg
-Linux x64	FrioLauncher-setup-VERSION.AppImage
+<markdown-accessiblity-table data-catalyst=""><table>
+<thead>
+<tr>
+<th>Platform</th>
+<th>File</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Windows x64</td>
+<td><code>Helios-Launcher-setup-VERSION.exe</code></td>
+</tr>
+<tr>
+<td>macOS x64</td>
+<td><code>Helios-Launcher-setup-VERSION-x64.dmg</code></td>
+</tr>
+<tr>
+<td>macOS arm64</td>
+<td><code>Helios-Launcher-setup-VERSION-arm64.dmg</code></td>
+</tr>
+<tr>
+<td>Linux x64</td>
+<td><code>Helios-Launcher-setup-VERSION.AppImage</code></td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
