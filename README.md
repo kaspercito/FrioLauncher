@@ -5,73 +5,78 @@
 <img src="https://cdn.discordapp.com/attachments/1198164615624937553/1443117536315969587/image.png?ex=6927e770&is=692695f0&hm=f3287c178c19229aeda073abf08ec85fc318295641e0bfad7da135e496836867&" alt="Screenshot 1" data-canonical-src="https://i.imgur.com/6o7SmH6.png" style="max-width: 100%;">
 
 
-❄️ Características
+<h2>❄️ <strong>Características</strong></h2>
 
-🔒 Gestión completa de cuentas
+<h3>🔒 <strong>Gestión completa de cuentas</strong></h3>
+<ul>
+  <li>Soporte para Microsoft (OAuth 2.0) y Mojang.</li>
+  <li>Cambia entre múltiples cuentas fácilmente.</li>
+  <li>Las credenciales nunca se guardan ni se envían fuera del protocolo oficial.</li>
+</ul>
 
-Soporte para Microsoft (OAuth 2.0) y Mojang.
+<h3>📂 <strong>Gestión eficiente de assets</strong></h3>
+<ul>
+  <li>Actualizaciones automáticas del cliente.</li>
+  <li>Verificación de archivos: si algo está corrupto, se vuelve a descargar.</li>
+</ul>
 
-Cambia entre múltiples cuentas fácilmente.
+<h3>☕ <strong>Validación automática de Java</strong></h3>
+<ul>
+  <li>Instala la versión correcta automáticamente si no la tienes.</li>
+  <li>No necesitas tener Java instalado en tu PC.</li>
+</ul>
 
-Las credenciales nunca se guardan ni se envían fuera del protocolo oficial.
+<h3>📰 <strong>Noticias integradas (personalizables)</strong></h3>
 
-📂 Gestión eficiente de assets
+<h3>⚙️ <strong>Panel de configuración intuitivo</strong></h3>
+<ul>
+  <li>Ajustes del launcher y opciones de Java.</li>
+</ul>
 
-Actualizaciones automáticas del cliente.
+<h3>🖥️ <strong>Compatible con nuestros servidores</strong></h3>
+<ul>
+  <li>Cambia entre configuraciones.</li>
+  <li>Muestra jugadores conectados.</li>
+</ul>
 
-Verificación de archivos: si algo está corrupto, se vuelve a descargar.
+<h3>🔄 <strong>Auto-actualización del launcher</strong></h3>
 
-☕ Validación automática de Java
+<h3>📡 <strong>Estado de servicios de Mojang</strong></h3>
 
-Instala la versión correcta automáticamente si no la tienes.
+<br>
 
-No necesitas tener Java en tu PC.
+<h2>📥 <strong>Downloads</strong></h2>
 
-📰 Noticias integradas (personalizables)
-
-⚙️ Panel de configuración intuitivo
-
-Ajustes del launcher y opciones de Java.
-
-🖥️ Compatible con nuestros servidores
-
-Cambia entre configuraciones.
-
-Muestra jugadores conectados.
-
-🔄 Auto-actualización del launcher
-
-📡 Estado de servicios de Mojang
-
-📥 Downloads
-
-👉 Puedes descargar las versiones oficiales aquí:
+<p>👉 Puedes descargar las versiones oficiales aquí:<br>
+<a href="https://github.com/kaspercito/FrioLauncher/releases">
 https://github.com/kaspercito/FrioLauncher/releases
+</a></p>
 
-Plataformas soportadas
-<markdown-accessiblity-table data-catalyst=""><table>
-<thead>
-<tr>
-<th>Platform</th>
-<th>File</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Windows x64</td>
-<td><code>Helios-Launcher-setup-VERSION.exe</code></td>
-</tr>
-<tr>
-<td>macOS x64</td>
-<td><code>Helios-Launcher-setup-VERSION-x64.dmg</code></td>
-</tr>
-<tr>
-<td>macOS arm64</td>
-<td><code>Helios-Launcher-setup-VERSION-arm64.dmg</code></td>
-</tr>
-<tr>
-<td>Linux x64</td>
-<td><code>Helios-Launcher-setup-VERSION.AppImage</code></td>
-</tr>
-</tbody>
-</table></markdown-accessiblity-table>
+<h3><strong>Plataformas soportadas</strong></h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Platform</th>
+      <th>File</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Windows x64</td>
+      <td><code>Frio-Launcher-setup-VERSION.exe</code></td>
+    </tr>
+    <tr>
+      <td>macOS x64</td>
+      <td><code>Frio-Launcher-setup-VERSION-x64.dmg</code></td>
+    </tr>
+    <tr>
+      <td>macOS arm64</td>
+      <td><code>Frio-Launcher-setup-VERSION-arm64.dmg</code></td>
+    </tr>
+    <tr>
+      <td>Linux x64</td>
+      <td><code>Frio-Launcher-setup-VERSION.AppImage</code></td>
+    </tr>
+  </tbody>
+</table>
